@@ -1,0 +1,17 @@
+.banner-1{
+    background-image: url("./images/banner.png");
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+.btn{
+    background-color: #B68C5A;
+    font-family: 'Poppins', sans-serif;
+}
+.title{
+    font-weight: 700;
+    font-size: 50px;
+    font-family: 'Raleway', sans-serif;
+}
+.icon{
+    background-color: #B68C5A;
+}
