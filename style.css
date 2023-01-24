@@ -2,6 +2,7 @@
     background-image: url("./images/banner.png");
     height: 100vh;
     background-repeat: no-repeat;
+    
 }
 .btn{
     background-color: #B68C5A;
@@ -14,4 +15,22 @@
 }
 .icon{
     background-color: #B68C5A;
+}
+.carousel-1{
+    background-image: url("./images/slider-1.jpg");
+    height: 100vh;
+    
+}
+.carousel-2{
+    background-image: url("./images/slider-2.jpg");
+    height: 100vh;
+     
+}
+.carousel-3{
+    background-image: url("./images/slider-3.jpg");
+    height: 100vh;
+    
+}
+.circle-png{
+    width: 100px;
 }
